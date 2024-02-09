@@ -63,10 +63,4 @@ You can download from the appstore if you use an iPhone, iPad or a Mac with Sili
 
 
 
-## 🔖 LICENCE
 
-[Apache-2.0](https://github.com/JasonSampMobile/EbookApp-Flutter/blob/master/LICENSE)
-
-<a href="https://github.com/JasonSampMobile/EbookApp-Flutter">
-        <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=JasonSampMobile/EbookApp-Flutter&type=Date">
-      </a>
